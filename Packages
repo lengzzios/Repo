@@ -1,12 +1,27 @@
-Package: com.kinemastervip.lengzz.deb
-Version: 1.1.1
+Package: com.kinemastervip.lengzz
+Version: 1.0.0
 Section: Tweaks
 Maintainer: LengZzIOSofficial
-Depends: mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debians/com.kinemastervip.lengzz.deb
-Size: 72020
+Filename: ./debs/com.kinemastervip.lengzz_1.0.0_iphoneos-arm.deb
+Size: 854
 MD5sum: 48FFE9911038D9B89B343BB4C2BB8626
-Description: KineMaster VIP
+Description: kinemaster vip
 Name: KineMaster VIP
 Author: LengZzIOSofficial
+Depiction: Kinemaster VIP
+
+Package: com.picsartvip.lengzz
+Version: 1.0.0
+Section: Tweaks
+Maintainer: LengZzIOSofficial
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.picsartvip.lengzz_1.0.0_iphoneos-arm.deb
+Size: 860
+MD5sum: 157A526B75AD45FE456812067AB9714A
+Description: picsart vip
+Name: PicsArt VIP
+Author: LengZzIOSofficial
+Depiction: PicsArt VIP
