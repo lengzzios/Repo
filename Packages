@@ -5,8 +5,8 @@ Maintainer: LengZzIOSofficial
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.kinemastervip.lengzz_1.0.0_iphoneos-arm.deb
-Size: 854
-MD5sum: 48FFE9911038D9B89B343BB4C2BB8626
+Size: 72020
+MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
 Description: kinemaster vip
 Name: KineMaster VIP
 Author: LengZzIOSofficial
@@ -19,8 +19,8 @@ Maintainer: LengZzIOSofficial
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.picsartvip.lengzz_1.0.0_iphoneos-arm.deb
-Size: 860
-MD5sum: 157A526B75AD45FE456812067AB9714A
+Size: 71024
+MD5sum: 157a526b75Ad45fe456812067ab9714a
 Description: picsart vip
 Name: PicsArt VIP
 Author: LengZzIOSofficial
