@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: LengZzIOSofficial
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/KineMasterVIP.deb
+Filename: ./debs/KineMasterVIP.deb
 Size: 72020
 MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
 Description: kinemaster vip
@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: LengZzIOSofficial
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/PicsArtVIP.deb
+Filename: ./debs/PicsArtVIP.deb
 Size: 71024
 MD5sum: 157a526b75ad45fe456812067ab9714a
 Description: picsart vip
