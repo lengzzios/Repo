@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: LengZzIOSofficial
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: /KineMasterVIP.deb
+Filename: https://github.com/lengzzios/Repo/raw/main/kineMasterVIP.deb
 Size: 72020
 MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
 Description: kinemaster vip
