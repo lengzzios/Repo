@@ -3,7 +3,6 @@ Version: 1.1.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: LengZzIOSofficial
 Section: Tweaks
-Depends: mobilesubstrate
 Filename: ./debs/kineMasterVIP.deb
 Size: 72020 bytes
 MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
