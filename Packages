@@ -1,11 +1,11 @@
 Package: com.kinemastervip.lengzz
-Version: 1.0.0
+Version: 1.1.1+5
 Architecture: iphoneos-arm
 Maintainer: LengZzIOSofficial
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: https://github.com/lengzzios/Repo/raw/main/kineMasterVIP.deb
-Size: 72020
+Filename: ./debs/kineMasterVIP.deb
+Size: 72020 bytes
 MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
 Description: kinemaster vip
 Name: KineMaster VIP
