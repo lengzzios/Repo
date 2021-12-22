@@ -1,26 +1,79 @@
-Package: com.kinemastervip.lengzz
-Version: 1.1.1-5+debug
+Package: com.VPNMasterVIP.lengzz
+Name: VPN Master VIP✨
+Author: LengZzIOSofficial 
+Description: VIP VPN
+Filename: ./debs/VPNMaster VIP.deb
+Size: 4964  bytes
+MD5sum: f2e12c219b2c00fa6a0b49cfdfa9f902
+Depends: mobilesubstrate
+Maintainer: LENGZZIOSOFFICIAL 
 Architecture: iphoneos-arm
-Maintainer: LengZzIOSofficial
-Section: Tweaks
-Filename: ./debs/com.kinemastervip.lengzz.deb
-Size: 72020 bytes
-MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
-Description: kinemaster vip
-Name: KineMaster VIP
-Author: LengZzIOSofficial
-Depiction: Kinemaster VIP
+Section: Tweaks (🦋APP HACK🦋)
+Version: 0.0.1
 
-Package: com.yourepo.lengzzios.picsartpremiumbylengzz
-Name: PicsArt Premium BY 👑LengZz👑
+Package: com.lengzzios.picsartpremiumbylengzz
+Name: PicsArt Premium
 Version: 15.9.2
-Filename: ./debs/com.picsartvip.lengzz.deb
-Size: 71024 bytes
-MD5sum: 157a526b75ad45fe456812067ab9714a
+Filename: ./debs/PicsArt VIP.deb
+Size: 107986  bytes
+MD5sum: 3cb79941813def3180856771949c27d3
 Architecture: iphoneos-arm
-Description: 🌸Premium🌸😎🇰🇭
-Author: 👑LengZz👑 <vannleng12345@gmail.com>
+Description: Premium
+Author: LengZzIOSofficial
 Section: Tweaks (🦋APP HACK🦋)
 Depends: mobilesubstrate
-Maintainer: LengZz <vannleng12345@gmail.com>
+Maintainer: LengZzIOSofficial
+
+Package: com.kinemasterpro.LengZzIOSofficial
+Name: KineMaster Premium🍭
+Author: LengZzIOSofficial 
+Filename: ./debs/KineMaster VIP.deb
+Size: 109908  bytes
+MD5sum: f3a7f3a2538be117d4e3e647af3d6707
+Description: Pro 
+Depends: mobilesubstrate
+Maintainer: LengZzIOSofficial 
+Architecture: iphoneos-arm
+Section: Tweaks (🦋APP HACK🦋)
+Version: 1.1.1
+
+Package: com.focos-vip.lengzz
+Name: Focos VIP🍭
+Depends: mobilesubstrate
+Filename: ./debs/Focos VIP.deb
+Size: 107562  bytes
+MD5sum: 113eaca393b61ef7c339d0173fbf76A9
+Architecture: iphoneos-arm
+Description: VIP Unlocks🍭
+Maintainer: LengZz 
+Author: LengZzIOSofficial
+Section: Tweaks (🦋APP HACK🦋)
+Version: 1.1.1-2+debug
+
+Package: com.lengzz.BetternetPremium
+Name: BetternetPremium✨
+Author: LengZzIOSofficial
+Filename: ./debs/Betternet Premium.deb
+Size: 4718 bytes
+MD5sum: 018c2e34e3395a1ae361c1ee7e77af18
+Description: BetternetPremium
+Depends: mobilesubstrate
+Maintainer: LengZzIOSofficial 
+Architecture: iphoneos-arm
+Section: Tweaks (🦋APP HACK🦋)
+Version: 5.17.0
+
+Package: com.adguard-pro.lengzz
+Name: AdGuard Pro🍭
+Depends: mobilesubstrate
+Filename: ./debs/AdGuard VIP.deb
+Size: 106882 bytes
+MD5sum: 388d3bacdd6c090ffc778eb31a9c5f9f
+Architecture: iphoneos-arm
+Description: Pro User🍭
+Maintainer: LengZzIOSofficial
+Author: LengZzIOSofficial
+Section: Tweaks (🦋APP HACK🦋) 
+Version: 1.1.1
+
 
