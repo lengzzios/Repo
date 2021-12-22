@@ -1,5 +1,5 @@
 Package: com.VPNMasterVIP.lengzz
-Name: VPN Master VIP
+Name: VPNMaster VIP
 Version: 0.0.1
 Filename: ./debs/VPNMasterVIP.deb
 Size: 4964 bytes
@@ -25,7 +25,7 @@ Depends: mobilesubstrate
 Maintainer: LengZzIOSofficial
 
 Package: com.kinemasterpro.LengZzIOSofficial
-Name: KineMaster Premium🍭
+Name: KineMaster Premium
 Version: 1.1.1
 Filename: ./debs/KineMasterVIP.deb
 Size: 109908 bytes
@@ -38,20 +38,20 @@ Section: Tweaks (🦋APP HACK🦋)
 Author: LengZzIOSofficial 
 
 Package: com.focos-vip.lengzz
-Name: Focos VIP🍭
+Name: Focos VIP
 Version: 1.1.1-2+debug
 Depends: mobilesubstrate
 Filename: ./debs/FocosVIP.deb
 Size: 107562 bytes
 MD5sum: 113eaca393b61ef7c339d0173fbf76a9
 Architecture: iphoneos-arm
-Description: VIP Unlocks🍭
+Description: VIP Unlocks
 Maintainer: LengZz 
 Section: Tweaks (🦋APP HACK🦋)
 Author: LengZzIOSofficial
 
 Package: com.lengzz.BetternetPremium
-Name: BetternetPremium✨
+Name: BetternetPremium
 Version: 5.17.0
 Author: LengZzIOSofficial
 Filename: ./debs/BetternetPremium.deb
@@ -64,14 +64,14 @@ Section: Tweaks (🦋APP HACK🦋)
 Maintainer: LengZzIOSofficial 
 
 Package: com.adguard-pro.lengzz
-Name: AdGuard Pro🍭
+Name: AdGuard Pro
 Version: 1.1.1
 Depends: mobilesubstrate
 Filename: ./debs/AdGuardVIP.deb
 Size: 106882 bytes
 MD5sum: 388d3bacdd6c090ffc778eb31a9c5f9f
 Architecture: iphoneos-arm
-Description: Pro User🍭
+Description: Pro User
 Author: LengZzIOSofficial
 Section: Tweaks (🦋APP HACK🦋) 
 Maintainer: LengZzIOSofficial
