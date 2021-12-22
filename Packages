@@ -3,10 +3,24 @@ Version: 1.1.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: LengZzIOSofficial
 Section: Tweaks
-Filename: ./debs/kineMasterVIP.deb
+Filename: ./debs/com.kinemastervip.lengzz.deb
 Size: 72020 bytes
 MD5sum: 48ffe9911038d9b89b343bb4c2bb8626
 Description: kinemaster vip
 Name: KineMaster VIP
 Author: LengZzIOSofficial
 Depiction: Kinemaster VIP
+
+Package: com.yourepo.lengzzios.picsartpremiumbylengzz
+Name: PicsArt Premium BY 👑LengZz👑
+Version: 15.9.2
+Filename: ./debs/com.picsartvip.lengzz.deb
+Size: 71024 bytes
+MD5sum: 157a526b75ad45fe456812067ab9714a
+Architecture: iphoneos-arm
+Description: 🌸Premium🌸😎🇰🇭
+Author: 👑LengZz👑 <vannleng12345@gmail.com>
+Section: Tweaks (🦋APP HACK🦋)
+Depends: mobilesubstrate
+Maintainer: LengZz <vannleng12345@gmail.com>
+
