@@ -1,15 +1,15 @@
 Package: com.VPNMasterVIP.lengzz
 Name: VPN Master VIP✨
 Version: 0.0.1
-Description: VIP VPN
 Filename: ./debs/VPNMasterVIP.deb
 Size: 4964 bytes
 MD5sum: f2e12c219b2c00fa6a0b49cfdfa9f902
+Architecture: iphoneos-arm
+Description: VIP VPN
+Author: LengZzIOSofficial
+Section: Tweaks (🦋APP HACK🦋)
 Depends: mobilesubstrate
 Maintainer: LENGZZIOSOFFICIAL 
-Architecture: iphoneos-arm
-Section: Tweaks (🦋APP HACK🦋)
-Author: LengZzIOSofficial 
 
 Package: com.lengzzios.picsartpremiumbylengzz
 Name: PicsArt Premium
