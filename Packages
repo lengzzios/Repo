@@ -76,4 +76,15 @@ Author: LengZzIOSofficial
 Section: Tweaks (🦋APP HACK🦋) 
 Maintainer: LengZzIOSofficial
 
-
+Package: com.lengzz.batteryXs
+Name: LengZz BatteryXs
+Filename: ./debs/BatteryXS.deb
+Size: 3064 bytes
+MD5sum: 0351720F0277670487F3B76ECA7E637A
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Apple Battery Icon
+Maintainer: LengZzIOSofficial
+Author: LengZzIOSofficial
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
