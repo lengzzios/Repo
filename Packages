@@ -78,9 +78,9 @@ Maintainer: LengZzIOSofficial
 
 Package: com.lengzz.batteryXs
 Name: LengZz BatteryXs
-Filename: ./debs/LengZz BatteryXs.deb
+Filename: ./debs/LengZzBatteryXs.deb
 Size: 3064 bytes
-MD5sum: 0351720F0277670487F3B76ECA7E637A
+MD5sum: 0351720f0277670487f3b76eca7e637a
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Enable Apple Battery Icon
