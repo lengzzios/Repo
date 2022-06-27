@@ -86,5 +86,5 @@ Architecture: iphoneos-arm
 Description: Enable Apple Battery Icon
 Maintainer: LengZzIOSofficial
 Author: LengZzIOSofficial
-Section: Tweaks
+Section: Tweaks (🦋SYSTEM🦋)
 Depends: mobilesubstrate (>= 0.9.5000)
