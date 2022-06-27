@@ -7,7 +7,7 @@ MD5sum: f2e12c219b2c00fa6a0b49cfdfa9f902
 Architecture: iphoneos-arm
 Description: VIP VPN
 Author: LengZzIOSofficial
-Section: Tweaks (🦋APP HACK🦋)
+Section: Tweaks
 Depends: mobilesubstrate
 Maintainer: LENGZZIOSOFFICIAL 
 
@@ -20,7 +20,7 @@ MD5sum: 3cb79941813def3180856771949c27d3
 Architecture: iphoneos-arm
 Description: Premium
 Author: LengZzIOSofficial
-Section: Tweaks (🦋APP HACK🦋)
+Section: Tweaks
 Depends: mobilesubstrate
 Maintainer: LengZzIOSofficial
 
@@ -34,7 +34,7 @@ Description: Pro
 Depends: mobilesubstrate
 Maintainer: LengZzIOSofficial 
 Architecture: iphoneos-arm
-Section: Tweaks (🦋APP HACK🦋)
+Section: Tweaks
 Author: LengZzIOSofficial 
 
 Package: com.focos-vip.lengzz
@@ -47,7 +47,7 @@ MD5sum: 113eaca393b61ef7c339d0173fbf76a9
 Architecture: iphoneos-arm
 Description: VIP Unlocks
 Maintainer: LengZz 
-Section: Tweaks (🦋APP HACK🦋)
+Section: Tweaks
 Author: LengZzIOSofficial
 
 Package: com.lengzz.BetternetPremium
@@ -60,7 +60,7 @@ MD5sum: 018c2e34e3395a1ae361c1ee7e77af18
 Description: BetternetPremium
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Section: Tweaks (🦋APP HACK🦋)
+Section: Tweaks
 Maintainer: LengZzIOSofficial 
 
 Package: com.adguard-pro.lengzz
@@ -73,7 +73,7 @@ MD5sum: 388d3bacdd6c090ffc778eb31a9c5f9f
 Architecture: iphoneos-arm
 Description: Pro User
 Author: LengZzIOSofficial
-Section: Tweaks (🦋APP HACK🦋) 
+Section: Tweaks
 Maintainer: LengZzIOSofficial
 
 Package: com.lengzz.batteryXs
@@ -86,5 +86,5 @@ Architecture: iphoneos-arm
 Description: Enable Apple Battery Icon
 Maintainer: LengZzIOSofficial
 Author: LengZzIOSofficial
-Section: Tweaks (🦋SYSTEM🦋)
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
